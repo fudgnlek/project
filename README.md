@@ -1,14 +1,1 @@
-<img src="https://github.com/fudgnlek/project/assets/108926789/128fe7a3-56ae-4afe-890a-79195fafc5a5">
-<img src="https://github.com/fudgnlek/project/assets/108926789/efae2973-84f9-4ed9-8636-678ccd5680b1">
-<img src="https://github.com/fudgnlek/project/assets/108926789/493aad01-e678-4cc3-847f-3cdce725326c">
-<img src="https://github.com/fudgnlek/project/assets/108926789/2da34279-30b6-4647-bf0e-5013f91d1c7b">
-<img src="https://github.com/fudgnlek/project/assets/108926789/ccf9ca36-5eca-49cb-b00d-3a87b337ffd1">
-<img src="https://github.com/fudgnlek/project/assets/108926789/06f311d8-6d41-4f22-9624-3a103fca8e79 ">
-<img src="https://github.com/fudgnlek/project/assets/108926789/fefd2eec-f841-4cb2-b081-8e7541f81870">
-<img src="https://github.com/fudgnlek/project/assets/108926789/64c83c27-d38a-4e43-b887-681e8eaad151">
-<img src="https://github.com/fudgnlek/project/assets/108926789/2212b086-a45e-4973-99c5-63ec1c52da2e">
-<img src="https://github.com/fudgnlek/project/assets/108926789/325762c4-3a48-4c3e-8e03-29c0cc84171d">
-<img src="https://github.com/fudgnlek/project/assets/108926789/a967c504-6fcc-4a89-b22c-d59ff1f16f7b">
-<img src="https://github.com/fudgnlek/project/assets/108926789/b6cb44e1-69cd-481d-a433-ff88ce45bf82">
-<img src="https://github.com/fudgnlek/project/assets/108926789/b2b70c42-9c45-4965-975f-ddd34bf310bc">
-<img src="https://github.com/fudgnlek/project/assets/108926789/2d63d0bf-e871-44c1-ac1f-377f9f1827c6">
+
